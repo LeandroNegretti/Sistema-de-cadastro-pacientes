@@ -1,5 +1,5 @@
 
-<h1>Sistema de cadastro de pacientes</h1>
+<h1 align="center">Sistema de cadastro de pacientes</h1>
  
- Projeto do curso desenvolvido com JavaScript, adiciona pacientes e calcula o IMC
+<p align="center"> :fire: Projeto do curso desenvolvido com JavaScript, adiciona pacientes e calcula o IMC na tabela :fire:</p>
  
